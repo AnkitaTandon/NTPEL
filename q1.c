@@ -66,6 +66,6 @@ void main(){
     }    
     else
     {
-            printf("%d",&key);
+            printf("%d",key);
     }
 }
