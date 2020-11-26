@@ -8,8 +8,8 @@ r=random.randint(1,9)
 while p:
     num=int(input("Guess a digit:"))
     if num==r:
-        print("Well Guessed!\n ");
+        print("Well Guessed!\n ")
         p=0
     else:
-        print("Oops wrong guess! :( \n Try again!");
+        print("Oops wrong guess! :( \n Try again!")
         
