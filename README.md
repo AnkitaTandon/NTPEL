@@ -1,2 +1,2 @@
-# NTPEL
-C Problems from NTPEL assignments for python beginners
+# NPTEL
+Problems from NPTEL assignments for _Python beginners_
