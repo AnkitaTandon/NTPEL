@@ -1,2 +1,3 @@
 print("ooooooooo look who's lookin' at me")
-XD
+print("XD")
+print("beautiful you! :) ")
