@@ -1,7 +1,6 @@
 '''
 1.Write a program that prompts the user for two integers,
-and then prints them out in a
-sentence like
+and then prints them out in a sentence like
 
 The quotient of 13 and 3 is 4 with a remainder of 1
 '''
