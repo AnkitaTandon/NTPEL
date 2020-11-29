@@ -1,3 +1,16 @@
+'''
+Q. Create the following pattern:
+
+*     *
+
+ *   *
+      
+  * * 
+      
+   *  
+
+'''
+
 for i in range(4):
     j=0
     while j!=i:
@@ -11,3 +24,5 @@ for i in range(4):
     elif i==1:
         print("  ",end="")
     print("*\n")
+    
+    
